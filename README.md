@@ -1,11 +1,11 @@
 # 👋 Salut ! Je suis @TheRoro49
 
-Passionné en développement d'applications web, je découvre avec enthousiasme le monde du code et les technologies modernes.
+Passionné en développement d'applications web, j'explore avec enthousiasme le monde du code et les technologies modernes.
 
 ---
 
 ## 🔭 À propos de moi
-- 💻 Je dispose de base solide en **HTML**, **CSS**, **JavaScript**, **PHP**, et d'autres languages indispensables.
+- 💻 Je dispose de base solide en **HTML**, **CSS**, **JavaScript**, **TypeScript**, **PHP**, et d'autres languages indispensables.
 - 🌱 J'aime apprendre de nouvelles compétences, échanger avec des développeurs expérimentés, et rester à jour sur les technologies émergentes.
 - 🎯 Mon objectif : réaliser des projets impactants, acquérir de l'expérience pratique, et transformer ma passion pour le code en une carrière gratifiante.
 
@@ -13,10 +13,10 @@ Passionné en développement d'applications web, je découvre avec enthousiasme 
 
 ## 🛠️ Technologies & Outils
 ### **Langages**
-- HTML, CSS, JavaScript, PHP, Dart, SQL  
+- HTML, CSS, JavaScript, TypeScript, PHP, Dart, SQL  
 
 ### **Frameworks/Bibliothèques**
-- Frontend : TailwindCSS, Vue.js, Bootstrap  
+- Frontend : TailwindCSS, Vue.js, Angular Bootstrap  
 - Backend : Express.js, Node.js, Laravel  
 - Mobile : Flutter  
 
