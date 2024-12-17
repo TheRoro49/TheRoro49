@@ -16,7 +16,7 @@ Passionné en développement d'applications web, j'explore avec enthousiasme le 
 - HTML, CSS, JavaScript, TypeScript, PHP, Dart, SQL  
 
 ### **Frameworks/Bibliothèques**
-- Frontend : TailwindCSS, Vue.js, Angular Bootstrap  
+- Frontend : TailwindCSS, Vue.js, Angular, Bootstrap  
 - Backend : Express.js, Node.js, Laravel  
 - Mobile : Flutter  
 
